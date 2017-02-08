@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81424837-B5AB-47A5-AA3A-566696BA137C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AhiEvranDersProgrami</RootNamespace>
+    <AssemblyName>AhiEvranDersProgrami</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1431834822_view_text.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bolumdersislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bolumdersislemleri.Designer.cs">
+      <DependentUpon>bolumdersislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bolumekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bolumekle.Designer.cs">
+      <DependentUpon>bolumekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bolum_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bolum_guncelle.Designer.cs">
+      <DependentUpon>bolum_guncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DersEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersEkle.Designer.cs">
+      <DependentUpon>DersEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DersGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersGuncelle.Designer.cs">
+      <DependentUpon>DersGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diger_islemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diger_islemler.Designer.cs">
+      <DependentUpon>diger_islemler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="donemsinifyeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="donemsinifyeni.Designer.cs">
+      <DependentUpon>donemsinifyeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dpDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dpDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ogretim_elemani_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ogretim_elemani_ekle.Designer.cs">
+      <DependentUpon>Ogretim_elemani_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogretim_elemani_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogretim_elemani_guncelle.Designer.cs">
+      <DependentUpon>ogretim_elemani_guncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="varliklar\veritabani\BolumDersDonemVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\BolumVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\DersDagilimVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\DerslikVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\DersVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\DonemiVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\DonemVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\GunVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\OgretimElemaniVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\SaatVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\SinifVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\SubeVeritabanni.cs" />
+    <Compile Include="varliklar\veritabani\TemelVeritabani.cs" />
+    <Compile Include="varliklar\veritabani\UnvanVeritabani.cs" />
+    <Compile Include="varliklar\siniflar\Bolum.cs" />
+    <Compile Include="varliklar\siniflar\BolumDersDonem.cs" />
+    <Compile Include="varliklar\siniflar\Ders.cs" />
+    <Compile Include="varliklar\siniflar\DersDagilimi.cs" />
+    <Compile Include="varliklar\siniflar\Derslik.cs" />
+    <Compile Include="varliklar\siniflar\Donem.cs" />
+    <Compile Include="varliklar\siniflar\Donemi.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="varliklar\siniflar\Gun.cs" />
+    <Compile Include="varliklar\siniflar\IVarlik.cs" />
+    <Compile Include="varliklar\siniflar\OgretimElemani.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="varliklar\siniflar\Saat.cs" />
+    <Compile Include="varliklar\siniflar\Sinif.cs" />
+    <Compile Include="varliklar\siniflar\Sube.cs" />
+    <Compile Include="varliklar\siniflar\Unvan.cs" />
+    <EmbeddedResource Include="bolumdersislemleri.resx">
+      <DependentUpon>bolumdersislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bolumekle.resx">
+      <DependentUpon>bolumekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bolum_guncelle.resx">
+      <DependentUpon>bolum_guncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DersEkle.resx">
+      <DependentUpon>DersEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DersGuncelle.resx">
+      <DependentUpon>DersGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diger_islemler.resx">
+      <DependentUpon>diger_islemler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="donemsinifyeni.resx">
+      <DependentUpon>donemsinifyeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ogretim_elemani_ekle.resx">
+      <DependentUpon>Ogretim_elemani_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ogretim_elemani_guncelle.resx">
+      <DependentUpon>ogretim_elemani_guncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram.cd" />
+    <None Include="dpDataSet.xsc">
+      <DependentUpon>dpDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dpDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dpDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dpDataSet.xss">
+      <DependentUpon>dpDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1431834822_view_text.ico" />
+    <Content Include="images\delete.png" />
+    <Content Include="images\save.png" />
+    <None Include="Resources\menubackround2.png" />
+    <None Include="Resources\menubackround1.PNG" />
+    <None Include="Resources\menubackround.PNG" />
+    <None Include="Resources\remove.png" />
+    <None Include="Resources\1431105341_folder_add.ico" />
+    <None Include="Resources\1431105337_add_file.ico" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\update.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\ekle.png" />
+    <None Include="Resources\kolaygecmistemizleyici-icon-1375.png" />
+    <None Include="Resources\clear-master-for-android-Qtcrk4Y.png" />
+    <None Include="Resources\guncelle.ico" />
+    <None Include="Resources\guncelle.png" />
+    <None Include="Resources\1433471102_reload_all_tabs.ico" />
+    <None Include="Resources\1433471096_Autoship.ico" />
+    <None Include="Resources\1431107886_Update.bmp" />
+    <None Include="Resources\1431107886_Update.ico" />
+    <None Include="Resources\Ncrow-Mega-Pack-1-Excel.ico" />
+    <None Include="Resources\excel-icon.jpg" />
+    <None Include="Resources\excel.png" />
+    <None Include="Resources\Ahi_Evran_Üniversitesi_logo1.png" />
+    <None Include="Resources\Ahi_Evran_Üniversitesi_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

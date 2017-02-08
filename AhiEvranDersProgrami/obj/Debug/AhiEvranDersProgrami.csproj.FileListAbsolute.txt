@@ -1,0 +1,278 @@
+c:\users\ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+c:\users\ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+c:\users\ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Form1.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\documents\visual studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\mscorlib.dll
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\tr\mscorlib.resources.dll
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\normidna.nlp
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\normnfc.nlp
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\normnfd.nlp
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\normnfkc.nlp
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\normnfkd.nlp
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Form1.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+\\CASPERNIRVANA\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Form1.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\OneDrive\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Documents\Visual Studio 2013\Projects\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.veritabanıolustur.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Form1.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.veritabanıolustur.resources
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+D:\Flash\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Form1.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.veritabanıolustur.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (22.08.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersProgramiGoster.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Giris.resources
+C:\Users\Ferhat\Desktop\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ayar.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ayar.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersProgramiGoster.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Giris.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (13.10.2015)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ayar.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersProgramiGoster.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Giris.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (21.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ayar.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersProgramiGoster.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Giris.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (22.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.yardim.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ayar.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersProgramiGoster.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Giris.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.yardim.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (24.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ayar.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersProgramiGoster.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Giris.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.yardim.resources
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\AhiEvranDersProgrami - (28.01.2016)\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ayar.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersProgramiGoster.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Giris.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.yardim.resources
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+C:\Users\Ferhat\Desktop\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe.config
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.exe
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\bin\Debug\AhiEvranDersProgrami.pdb
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csprojResolveAssemblyReference.cache
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.ResolveComReference.cache
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ayar.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumdersislemleri.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolumekle.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.bolum_guncelle.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersEkle.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersGuncelle.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.DersProgramiGoster.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.diger_islemler.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.donemsinifyeni.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Giris.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Ogretim_elemani_ekle.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.ogretim_elemani_guncelle.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.Properties.Resources.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.yardim.resources
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.csproj.GenerateResource.Cache
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.exe
+F:\MasaÜstü Yedek - 20160407\Projeler\Ders Programı\AhiEvranDersProgrami\AhiEvranDersProgrami\obj\Debug\AhiEvranDersProgrami.pdb
